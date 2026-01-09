@@ -1,0 +1,3 @@
+2026-01-09 10:14:11,529 INFO Predict input={'timer_lekser': 4.0, 'fravaer': 3.0, 'soevn': 7.0} pred=1
+2026-01-09 10:45:41,880 INFO Predict input={'timer_lekser': 1.0, 'fravaer': 7.0, 'soevn': 4.0} pred=0
+2026-01-09 10:46:13,663 INFO Predict input={'timer_lekser': 2.0, 'fravaer': 4.0, 'soevn': 6.0} pred=0

@@ -39,3 +39,4 @@ God sikkerhet er å følge "least privelege principle" og bare gi tilgang til de
 
 ### Hva skjer hvis input-data er feil eller mangler?
 
+Hvis input-data er feil eller mangler, kan modellen gi feil eller en dårlig prediksjon.

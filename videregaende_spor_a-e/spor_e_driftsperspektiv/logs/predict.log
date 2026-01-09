@@ -1,3 +1,9 @@
 2026-01-09 10:14:11,529 INFO Predict input={'timer_lekser': 4.0, 'fravaer': 3.0, 'soevn': 7.0} pred=1
 2026-01-09 10:45:41,880 INFO Predict input={'timer_lekser': 1.0, 'fravaer': 7.0, 'soevn': 4.0} pred=0
 2026-01-09 10:46:13,663 INFO Predict input={'timer_lekser': 2.0, 'fravaer': 4.0, 'soevn': 6.0} pred=0
+2026-01-09 13:36:09,479 INFO Predict input={'timer_lekser': 3.0, 'fravaer': 4.0, 'soevn': 6.0} pred=1
+2026-01-09 13:36:28,146 INFO Predict input={'timer_lekser': 2.0, 'fravaer': 3.0, 'soevn': 5.0} pred=0
+2026-01-09 13:36:36,901 INFO Predict input={'timer_lekser': 2.0, 'fravaer': 4.0, 'soevn': 5.0} pred=0
+2026-01-09 13:38:21,477 INFO Predict input={'timer_lekser': 3.0, 'fravaer': 4.0, 'soevn': 5.0} pred=0
+2026-01-09 13:38:43,302 INFO Predict input={'timer_lekser': 3.0, 'fravaer': 3.0, 'soevn': 5.0} pred=0
+2026-01-09 13:38:48,668 INFO Predict input={'timer_lekser': 4.0, 'fravaer': 3.0, 'soevn': 5.0} pred=1

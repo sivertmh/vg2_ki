@@ -29,5 +29,13 @@ Datasettet er veldig lite, så modellen kan lett bli unøyaktig. Derfor kan resu
 
 ## Spor E - Driftsperspektiv
 
+### Hvilke data er sensitive?
 
+Det er visse data i dette sporet som ikke bør deles fordi den er personlig, og slike data finner vi i predict.log og klassifisering.csv. Disse filene inneholder data om elever som ikke bør deles. Selv om train.log også er logg-fil, inneholder den bare data som viser test score-tall.
+
+### Hvem skal ha tilgang til loggene?
+
+God sikkerhet er å følge "least privelege principle" og bare gi tilgang til de som trenger det, spesielt på filer som dette. Det vil si utviklere som trener modellen og eventuelle medutviklere som trenger å kvalitetsjekke arbeidet deres. Dette gjelder da for predict.log som inneholder sensetiv data, mens train.log kan vises i dokumentasjon på Github for eksempel, altså alle (eller firmaet).
+
+### Hva skjer hvis input-data er feil eller mangler?
 
